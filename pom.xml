@@ -4,7 +4,7 @@
         <artifactId>rc95website</artifactId>
         <version>1</version>
   
-
+    <dependencies>
         <!--Spring MVC support-->
         <dependency>
             <groupId>javax.servlet</groupId>
